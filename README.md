@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7AC7B3&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Murilo+Silva;I'm+23+years+old;I+am+a+student+of+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <div id="obj_murilo" style="max-width: 300px; max-height: 350px;">
-    <script src="/js/murilo_obj.js"><script>
-  </div>
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=influenciaCienciaTecnologia&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=000&text_color=c9d1d9&bg_color=568C7E" alt="Caroline Barbosa github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=influenciaCienciaTecnologia&layout=compact&hide_border=true&title_color=ffff&text_color=fff&bg_color=568C7E" />
