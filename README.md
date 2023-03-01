@@ -4,7 +4,7 @@
 
 <div>
   <div id="obj_murilo" style="max-width: 300px; max-height: 350px;">
-    <script src="./js/murilo_obj.js"><script>
+    <script src="/js/murilo_obj.js"><script>
   </div>
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=influenciaCienciaTecnologia&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=000&text_color=c9d1d9&bg_color=568C7E" alt="Caroline Barbosa github stats" /> 
