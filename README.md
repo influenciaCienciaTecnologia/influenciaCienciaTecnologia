@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AC7B3&height=120&section=header"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mike-codigo&bg_color=6EC7A5&color=000&line=fff&point=000&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mike-codigo&bg_color=6EC7A5&color=000&line=fff&point=000&area=true&hide_border=true)
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
