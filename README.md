@@ -15,14 +15,5 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)&nbsp;
 ![Three.JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mike-codigo}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AC7B3&height=120&section=footer"/>
-
 
 
